@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nivethasri641
 - 👀 I’m interested in ...creating new ideas to simplify the use of many technologies 
-- 🌱 I’m currently pursuing 2 nd yearBE Computerscience engineering.
+- 🌱 I’m currently pursuing 3 rd yearBE Computerscience engineering.
 - 💞️ I’m looking to collaborate on ...iot projects using aurdino 
 - 📫 How to reach me ...nivethasrikannan2004@gmail.com
-- 😄 Pronouns: ...cutie
+- 😄 Pronouns: Her
 - ⚡ Fun fact: Cows Have Best Friends: Research has shown that cows have best friends and become stressed when they are separated from them.
 
 <!---
